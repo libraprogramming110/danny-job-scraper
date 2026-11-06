@@ -56,9 +56,9 @@
     "jobsPerMessage": 8
   },
   "limits": {
-    "perSource": 50,
+    "perSource": 100,
     "fetchDescriptions": true,
-    "maxDetailFetches": 40,
+    "maxDetailFetches": 100,
     "requestDelayMs": 300
   },
   "_hints": {
